@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 Improving a little every day
 - 🔭 Probaly studying algorithms...
